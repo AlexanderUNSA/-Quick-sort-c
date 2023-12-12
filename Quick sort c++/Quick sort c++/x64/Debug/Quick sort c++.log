@@ -1,0 +1,3 @@
+﻿  Quick sort c++.cpp
+E:\tarea\tereahub\c++\Quick sort c++\Quick sort c++\Quick sort c++.cpp(28,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Quick sort c++.vcxproj -> E:\tarea\tereahub\c++\Quick sort c++\x64\Debug\Quick sort c++.exe
